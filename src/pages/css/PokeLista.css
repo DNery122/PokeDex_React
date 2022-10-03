@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+}
+.title{
+    text-transform: uppercase;
+    font-size: 100px;
+    font-family: Fuente1;
+}
+.header{
+    margin-top: 60px;
+    text-align: center;
+}
+@font-face {
+    font-family: 'Fuente1';
+    src: url('../../assets/fonts/Nabla-Regular.ttf');
+    font-style: normal;
+    font-weight: normal;
+  }
+.content{
+    margin: 60px;
+    padding: 25px;
+}

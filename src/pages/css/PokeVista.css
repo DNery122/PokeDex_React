@@ -1,0 +1,19 @@
+.card{
+    background-color: antiquewhite;
+    width: 17rem;
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    border-radius: 5%;
+}
+@font-face {
+    font-family: 'Fuente2';
+    src: url('../../assets/fonts/DancingScript-VariableFont_wght.ttf');
+    font-style: normal;
+    font-weight: normal;
+  }
+  .card-title{
+    font-family: Fuente2;
+    font-size: 30px;
+    text-transform: uppercase;
+}
